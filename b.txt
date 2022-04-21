@@ -1,0 +1,45 @@
+/* .duck1{
+    padding-left: 50%; margin-right: 50%;
+    
+    
+}
+.aa{
+    padding-left: 50%; padding-right: 50%;
+
+
+
+}
+.anatxt{
+
+    padding-left: 50%; margin-right: 50%;
+    
+
+} */
+
+.main
+{
+    width: 40%;
+    margin: auto;
+}
+
+.main .menu-header{
+    width: 50%;
+    margin: auto;
+    border-bottom: royalblue;
+}
+
+.duck1{
+    width: 65%;
+    margin: auto;   
+}
+
+.txt1 h5{
+    color: red;
+}
+.txt2 h5{
+
+    color: red;
+}
+.txt3 h5{
+    color: red;
+}

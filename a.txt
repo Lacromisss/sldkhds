@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="mus.css" />
+  </head>
+  <body>
+      <div class="main">
+          <div class="menu-header"> 
+            <div class="duck1">
+              <img src="./a/blackgoose.png" alt="" />
+            </div>
+            <div class="aa"><h1>Black goose bistro</h1></div>
+        
+          </div>
+        
+          <div class="anatxt">
+            <div class="txt1">
+              <h5>The restoran</h5>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
+                laearum quia.
+              </p>
+            </div>
+            <div class="txt2">
+              <h5>Catering</h5>
+              Lorem ipsum dolor sit amet, ce doloribus suscipit?
+            </div>
+            <div class="txt3">
+              <h5>Location and hours</h5>
+              Lorem ipsum dolor sit l doloremque fugiat quos minus delectus.
+              Doloremque, quasi?
+            </div>
+          </div>
+      </div>
+  </body>
+</html>
